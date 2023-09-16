@@ -50,7 +50,6 @@ function plusSlide(n){
 
 function showSlide(n){
     var i;
-    var slides = document.getElementsByClassName("experience-slide");
     var dots = document.getElementsByClassName("dot");
     var images = document.getElementsByClassName("floating-img");
     if(n > (slides.length - 1)  ){

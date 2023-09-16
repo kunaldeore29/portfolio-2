@@ -10,7 +10,6 @@
         "../../sass/_education.scss",
         "../../sass/_skills.scss",
         "../../sass/_footer.scss",
-        "../../sass/_experience.scss",
         "../../sass/_project.scss"
     ],
     "names": [],
